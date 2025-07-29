@@ -114,7 +114,7 @@ public class Main {
 
                             System.out.println("Precio actual del producto " + p.nombre + "$" + p.PrecioUnitario);
                             System.out.print("Ingresa el nuevo precio: ");
-                            int nuevoPrecio = scanner.nextInt(); //tengo que guardar el precio nuevo
+                            int nuevoPrecio = scanner.nextInt(); //tengo que guardar el precio nuevo.
                             scanner.nextLine();
                             p.PrecioUnitario = nuevoPrecio;
                             System.out.println("✅ Precio actualizado con éxito.");
