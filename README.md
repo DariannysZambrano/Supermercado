@@ -34,5 +34,5 @@ Copy
 Edit
 
 📁 org.example
-  ├── Main.java        # Lógica principal con menú interactivo
-  └── Producto.java    # Clase Producto con atributos y constructor
+  Main.java        # Lógica principal con menú interactivo
+  Producto.java    # Clase Producto con atributos y constructor
